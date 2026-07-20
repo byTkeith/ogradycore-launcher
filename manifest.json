@@ -2,7 +2,7 @@
   "name": "OgradyDDI",
   "short_name": "OgradyDDI",
   "description": "O'Grady Coatings AI Forecasting Platform",
-  "start_url": "https://OgradyDDI.streamlit.app/",
+  "start_url": "https://OgradyCore.streamlit.app/",
   "display": "browser",
   "orientation": "portrait-primary",
   "background_color": "#0a3520",
